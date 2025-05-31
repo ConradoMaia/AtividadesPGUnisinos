@@ -46,6 +46,7 @@ include_directories(${glm_SOURCE_DIR})
 set(EXERCISES
     Entregas/m2/Exercicio1
     Entregas/m2/Exercicio2
+    Entregas/m3/M3JogoCores
 )
 
 add_compile_options(-Wno-pragmas)
