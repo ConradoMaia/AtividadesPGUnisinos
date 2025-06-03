@@ -71,7 +71,7 @@ int main()
 
 	glfwInit();
 
-	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "M3 - Jogo das cores - Conrado", nullptr, nullptr);
+	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "M3 - Jogo das cores - Conrado e Gabriel Figueiredo", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
 
 	glfwSetKeyCallback(window, key_callback);
