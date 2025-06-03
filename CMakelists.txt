@@ -44,9 +44,7 @@ include_directories(${glm_SOURCE_DIR})
 
 # Lista de exemplos/exercícios podem ser colocados aqui também
 set(EXERCISES
-    Entregas/m2/Exercicio1
-    Entregas/m2/Exercicio2
-    Entregas/m3/M3JogoCores
+    Entregas/m4/Sprite
 )
 
 add_compile_options(-Wno-pragmas)
