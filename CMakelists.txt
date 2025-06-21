@@ -48,6 +48,7 @@ set(EXERCISES
     Entregas/m2/Exercicio2
     Entregas/m3/M3JogoCores
     Entregas/m4/Sprite
+    Entregas/m5/Sprite2
 )
 
 add_compile_options(-Wno-pragmas)
